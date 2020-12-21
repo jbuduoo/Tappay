@@ -1,2 +1,1 @@
-# Tappay
-取得tappay prime
+# cec-apigee-wallet
