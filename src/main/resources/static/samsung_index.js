@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     
     // Step 1
-    TPDirect.setupSDK(11327, 'app_whdEWBH8e8Lzy4N6BysVRRMILYORF6UxXbiOFsICkz0J9j1C0JUlCHv1tVJC', 'sandbox')
+    TPDirect.setupSDK(12774, 'app_13BZ1z0zDJWveMHGCXmNzIcZ3cihSflFZb4GoIJqNg3r9mvEbpDCxziJNG6s', 'sandbox')
     
     // Step 2
     TPDirect.samsungPay.setup({
