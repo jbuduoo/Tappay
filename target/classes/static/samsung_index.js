@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         supportedNetworks: ['VISA', 'MASTERCARD'],
         total: {
             // 此為在手機上會顯示的商家名稱
-            label: 'TapPay',
+            label: '家樂福',
             amount: {
                 currency: 'TWD',
                 value: '50'
